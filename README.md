@@ -1,2 +1,2 @@
 # Beginning_Algorithms
-My first algorithms
+Algorithms to learn
