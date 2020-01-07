@@ -1,7 +1,9 @@
-# Beginning_Algorithms
+# Beginning Algorithms in Pyton
 
- *Blubbe Sort;
- *Insertion Sort;
- *Selection Sort;
- *isPalindrome(Integers)?
+This repository has the following algorithms:
+
+ * Blubbe Sort;
+ * Insertion Sort;
+ * Selection Sort;
+ * isPalindrome(Integers)?
  
