@@ -1,2 +1,7 @@
 # Beginning_Algorithms
-Algorithms to learn
+
+ *Blubbe Sort
+ *Insertion Sort
+ *Selection Sort
+ *isPalindrome(Integers)?
+ 
