@@ -1,7 +1,7 @@
 # Beginning_Algorithms
 
- *Blubbe Sort
- *Insertion Sort
- *Selection Sort
+ *Blubbe Sort;
+ *Insertion Sort;
+ *Selection Sort;
  *isPalindrome(Integers)?
  
